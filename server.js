@@ -64,6 +64,6 @@ app.get('/pizza_pages', (req, res) => {
 // })
 
 app.listen(PORT, () => {
-    console.log('kek')
+    console.log('Work')
 })
 
